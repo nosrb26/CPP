@@ -1,0 +1,12 @@
+Bonjour,
+
+Pour l'exercice cartesian_vector_param :
+    - Les tests passent bien, vous avez bien implémenté les fonctions
+      nécessaires.
+    - La vérification faite sur l'index est une bonne idée
+    - Vous avez bien défini les fonctions en dehors du fichier vector.hh
+    C'est pratique pour la lisibilité du code.
+
+Aucune remarque négative, c'est du bon travail.
+
+Cordialement,
